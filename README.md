@@ -4,4 +4,4 @@
 
 2) Set the network path and algorithm parameters from file 'Main.m' inside 'Matlab Codes' folder and then run it. 
     
-3) Use MATLAB version R2022a or higher
+3) Use MATLAB version R2022a or higher.
