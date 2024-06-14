@@ -1,6 +1,6 @@
 # Learning-Based Genetic Algorithm (LGA) for Community Detection Problem (CDP)
 
-1) This is implementation of paper 'Identifying Communities in Complex Networks Using Learning-Based Genetic Algorithm'
+1) This repositiory is implementation of paper 'Identifying Communities in Complex Networks Using Learning-Based Genetic Algorithm'
 
 2) Set the network path and algorithm parameters from file 'Main.m' inside 'Matlab Codes' folder and then run it. 
     
